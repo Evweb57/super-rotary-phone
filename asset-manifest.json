@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/super-rotary-phone/static/css/main.666b83bc.chunk.css",
+    "main.js": "/super-rotary-phone/static/js/main.8c4592ea.chunk.js",
+    "main.js.map": "/super-rotary-phone/static/js/main.8c4592ea.chunk.js.map",
+    "runtime-main.js": "/super-rotary-phone/static/js/runtime-main.7e063ed4.js",
+    "runtime-main.js.map": "/super-rotary-phone/static/js/runtime-main.7e063ed4.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/super-rotary-phone/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js": "/super-rotary-phone/static/js/2.db7782eb.chunk.js",
+    "static/js/2.db7782eb.chunk.js.map": "/super-rotary-phone/static/js/2.db7782eb.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/super-rotary-phone/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/super-rotary-phone/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/super-rotary-phone/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/super-rotary-phone/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.666b83bc.chunk.css.map": "/super-rotary-phone/static/css/main.666b83bc.chunk.css.map",
+    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/super-rotary-phone/static/js/2.db7782eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/super-rotary-phone/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e063ed4.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js",
+    "static/css/main.666b83bc.chunk.css",
+    "static/js/main.8c4592ea.chunk.js"
+  ]
+}
